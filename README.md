@@ -1,2 +1,3 @@
 # HelloWorld
 first git
+jet fuel propultion rockets are basic, rail gun is the next cool shit...
